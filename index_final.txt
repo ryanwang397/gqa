@@ -1,0 +1,1086 @@
+q:
+Is this an enhancer sequence?
+Could this sequence function as an enhancer?
+Is it possible that this DNA sequence acts as an enhancer?
+Does this sequence serve the role of an enhancer in the genome?
+Can we identify this sequence as an enhancer?
+Is this sequence characterized as an enhancer?
+Might this DNA sequence be classified as an enhancer?
+Does this particular sequence have the properties of an enhancer?
+Would this sequence be considered an enhancer?
+Does this sequence exhibit the typical features of an enhancer?
+Is there a chance this sequence is an enhancer?
+Does this sequence have the potential to enhance transcription activity?
+Does this sequence interact with promoters to enhance transcription efficiency?
+Does this sequence display enhancer-like chromatin accessibility?
+Is this sequence involved in three-dimensional chromatin architecture that supports distal gene regulation?
+a:
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:yes
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Is this a promoter sequence?
+Could this sequence be acting as a promoter?
+Does this sequence have the characteristics of a promoter?
+Can this sequence be identified as a promoter in genetic transcription?
+Might this DNA sequence function in the capacity of a promoter?
+Is it possible for this DNA sequence to serve as a promoter?
+Do the features of this sequence align with those of known promoters?
+Is this sequence functioning in the role of a promoter?
+Is this sequence responsible for starting the transcription process?
+Is this sequence located upstream of a gene?
+Can this sequence initiate RNA polymerase binding and transcription?
+Does this sequence control the transcription start site (TSS) of a nearby gene?
+Is this sequence associated with the first exon of a transcript?
+Does this sequence contain key promoter motifs such as the TATA box, CAAT box, or GC-rich regions?
+a:
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:yes
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Is this a DNA sequence belonging to open chromatin regions?
+Does this sequence reside within regions of open chromatin?
+Does this DNA fragment correspond to an open chromatin area?
+Is this sequence a component of open chromatin regions?
+Is it possible that this sequence is situated within an open chromatin region?
+Does this sequence represent a section of the open chromatin region?
+Does this particular sequence align with open chromatin regions?
+Would this sequence be considered part of the open chromatin regions?
+Does the location of this sequence correspond to open chromatin areas?
+Is this an ocr sequence?
+Does this sequence facilitate transcription factor binding due to its accessibility?
+Is this sequence involved in regulating gene expression by allowing access to regulatory proteins?
+Does this sequence contribute to the formation of regulatory hubs in active chromatin domains?
+Is this sequence enriched for markers associated with open chromatin?
+Does this sequence exhibit high conservation in regions typically associated with open chromatin?
+a:
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:yes
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Is this a splice site sequence?
+Does this sequence indicate a splice site?
+Can this sequence be identified as a splice site?
+Might this sequence represent a splice site?
+Does this represent a sequence found at splice sites?
+Is this sequence associated with splice sites?
+Can this sequence be recognized as a splice site sequence?
+Is this sequence reflective of a splice site?
+Is there evidence to suggest this is a splice site sequence?
+Is this sequence characteristic of a splice site?
+Could this sequence define the precise boundaries of splicing regions?
+Does this sequence mediate the removal of introns during pre-mRNA splicing?
+Is this sequence involved in alternative splicing regulation?
+Does this sequence exhibit consensus features of splice sites?
+Is this sequence located at the boundary between exons and introns?
+a:
+regulatory/acceptor_with_variants.csv:yes
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:yes
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Is this an acceptor site sequence?
+Could this DNA segment be an acceptor site?
+Is it accurate to describe this sequence as an acceptor site?
+Does this represent the sequence of an acceptor site?
+Are we looking at a sequence typical for an acceptor site?
+Does this sequence function typically as an acceptor site?
+Is this genetic sequence an example of an acceptor site?
+Might this sequence be categorized as an acceptor site?
+Would it be appropriate to classify this sequence as an acceptor site?
+Could this sequence be correctly labeled as an acceptor site?
+Is there evidence to suggest this sequence acts as an acceptor site?
+Does this sequence align with known motifs of acceptor sites?
+Is there a consensus to consider this sequence as part of an acceptor site?
+Can this sequence be confirmed as an acceptor site based on its structure?
+Does this sequence align with known motifs of acceptor sites?
+a:
+regulatory/acceptor_with_variants.csv:yes
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Is this a donor site sequence?
+Is this sequence indicative of a canonical donor site?
+Does the sequence of this DNA segment suggest it is a donor site?
+Is the role of this DNA sequence to act as a donor site?
+Can this segment of DNA be identified as a donor site?
+Does this sequence fulfill the criteria for a donor site?
+Are we dealing with a sequence that functions as a donor site?
+Is it proper to classify this sequence as a donor site?
+Does the makeup of this sequence suggest it is a donor site?
+Is this sequence representative of what you would expect from a donor site?
+Might this be a functional donor site in its DNA context?
+Does this sequence contain the typical markers of a donor site?
+Does this sequence adhere to the patterns seen in donor sites?
+Is it plausible that this sequence performs the function of a donor site?
+Would it be accurate to label this sequence as a donor site?
+a:
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:yes
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Does this sequence initiate transcription?
+Is this sequence involved in the initiation of transcription?
+If this sequence starts the transcription process?
+Does this segment of DNA serve to initiate transcription?
+Is initiating transcription a function of this sequence?
+Could this sequence be responsible for triggering transcription?
+Is this sequence a starting point for transcription?
+Can this particular sequence be linked to transcription initiation?
+Is this genetic sequence what starts the transcription process?
+Does this sequence have the characteristics of a transcription initiator?
+Can this sequence be considered the starting signal for transcription?
+Could this sequence play a direct role in the transcription start?
+Could this sequence be essential for initiating transcription?
+Does this sequence show functional involvement in the transcription initiation process?
+Does this sequence mark the beginning of the transcription process?
+a:
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:yes
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Which type of regulatory region does this sequence belong to?
+What kind of regulatory region is this sequence a part of?
+To which regulatory region type does this sequence correspond?
+Please classify the regulatory region of this sequence.
+What category of regulatory region includes this sequence?
+In what type of regulatory region is this sequence found?
+What is the known type of regulatory region of this sequence?
+What is the regulatory region type for this sequence?
+To which category of regulatory regions does this sequence belong?
+What type of regulatory area does this sequence occupy?
+Which regulatory region classification fits this sequence?
+Is this sequence part of a promoter, enhancer, or other regulatory region?
+How is this sequence classified within known regulatory regions?
+What specific function does this regulatory sequence serve?
+What role does this sequence play within its regulatory context?
+a:
+regulatory/ocr_with_variants.csv:ocr
+regulatory/promoter_with_variants.csv:promoter
+regulatory/enhancer_with_variants.csv:enhancer
+*
+q:
+Is this a 3 prime UTR sequence?
+Does this sequence represent a 3' UTR?
+Is this identified as a 3 prime untranslated region?
+Can this be classified as a 3' UTR sequence?
+Is it correct to label this sequence as a 3 prime UTR?
+Are we looking at a 3' untranslated region here?
+Does this DNA segment function as a 3' UTR?
+Is this part of the 3 prime untranslated region of a gene?
+Might this sequence be considered a 3' UTR?
+Is this sequence associated with the 3 prime untranslated region?
+Could this sequence be identified as part of the 3' UTR?
+Is this sequence indicative of a 3 prime untranslated region?
+Could this sequence be involved in functions typical of a 3' UTR?
+Does this sequence align with the characteristics of a 3' UTR?
+Is it appropriate to classify this sequence as belonging to the 3' untranslated region?
+a:
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:yes
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Is this a 5 prime UTR sequence?
+Does this sequence represent a 5' UTR?
+Is this part of a 5 prime untranslated region?
+Can we classify this as a 5' UTR sequence?
+Is it accurate to describe this sequence as a 5 prime UTR?
+Are we dealing with a 5' untranslated region here?
+Does this sequence function as a 5' UTR?
+Is this identified as part of the 5 prime untranslated region?
+Could this sequence be a 5' UTR?
+Is this sequence characteristic of a 5 prime untranslated region?
+Could this sequence be identified as part of the 5' UTR?
+Is this sequence indicative of a 5 prime untranslated region?
+Could this sequence be involved in functions typical of a 5' UTR?
+Does this sequence align with the characteristics of a 5' UTR?
+Is it appropriate to classify this sequence as belonging to the 5' untranslated region?
+a:
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:yes
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Is this an intron sequence?
+Does this sequence constitute an intron?
+Is this segment of DNA an intron?
+Can this DNA sequence be classified as an intron?
+Is it correct to identify this sequence as an intron?
+Are we looking at an intron sequence here?
+Does this sequence represent the part of an intron?
+Is this sequence an example of an intron in the gene?
+Might this be an intron sequence?
+Is this identified as an intron within its genetic context?
+Is this sequence characteristic of intronic regions?
+Does this DNA segment align with known features of introns?
+Is this sequence typically found within introns?
+Could this sequence serve as an intron in its genomic context?
+Is this sequence located within an intronic region of the gene?
+a:
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:yes
+*
+q:
+Is this an exon sequence?
+Does this sequence represent an exon?
+Is this part of an exon?
+Can this be classified as an exon sequence?
+Is it correct to label this sequence as an exon?
+Are we dealing with an exon here?
+Does this sequence function as an exon?
+Is this identified as part of the exon structure?
+Could this sequence be an exon?
+Is this sequence characteristic of an exon?
+Is this sequence characteristic of exonic regions?
+Does this DNA segment align with known features of exons?
+Is this sequence typically found within exons?
+Could this sequence serve as an exon in its genomic context?
+Is this sequence located within an exonic region of the gene?
+a:
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:yes
+region/5utr_with_variants.csv:yes
+region/coding_sequences.csv:yes
+region/introns_with_variants.csv:no
+*
+q:
+Is this a coding sequence?
+Does this sequence code for protein?
+Is this segment of DNA a coding sequence?
+Can we identify this as a coding sequence?
+Is it accurate to describe this sequence as coding?
+Are we looking at a coding sequence here?
+Does this DNA sequence function in coding for proteins?
+Is this sequence part of the coding region of a gene?
+Could this sequence be involved in protein coding?
+Is this identified as a coding sequence within the genome?
+Could this sequence be classified as part of a coding region?
+Is this sequence associated with protein-coding functions?
+Does this sequence correspond to a region that translates into protein?
+Is this sequence recognized as contributing to protein-coding in the genetic context?
+Might this sequence be a section of a gene's coding region?
+a:
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:yes
+region/introns_with_variants.csv:no
+*
+q:
+Will this sequence be included in the pre-mRNA?
+Is this sequence part of the pre-mRNA?
+Does this sequence get transcribed into pre-mRNA?
+Can we expect this sequence to be included in pre-mRNA?
+Is it correct to say this sequence will be in the pre-mRNA?
+Are we looking at a sequence that forms part of the pre-mRNA?
+Will this DNA segment be transcribed into pre-mRNA?
+Does this sequence contribute to the pre-mRNA composition?
+Could this sequence be a component of pre-mRNA?
+Is this sequence included in the initial mRNA transcript?
+Does this sequence become part of the primary RNA transcript?
+Could this sequence be transcribed into the initial mRNA molecule?
+Is this sequence retained in the pre-mRNA during transcription?
+Is this DNA segment transcribed into the precursor mRNA?
+Can this sequence be identified as a region included in pre-mRNA synthesis?
+a:
+regulatory/acceptor_with_variants.csv:yes
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:yes
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:yes
+region/5utr_with_variants.csv:yes
+region/coding_sequences.csv:yes
+region/introns_with_variants.csv:no
+*
+q:
+Whether this exon sequence encodes a protein?
+Does this exon code for a protein?
+Is this exon sequence involved in protein coding?
+Can it be said that this exon sequence encodes a protein?
+Is it accurate to describe this exon as protein-coding?
+Are we looking at a protein-coding exon sequence here?
+Does this exon contribute to the protein structure?
+Is this identified as a protein-coding part of the exon?
+Could this exon sequence be involved in coding for a protein?
+Is this sequence characteristic of a protein-coding exon?
+Does this exon sequence play a role in the synthesis of proteins?
+Could this exon be classified as part of a protein-coding region?
+Might this exon be involved in generating a functional protein sequence?
+Can this exon be identified as contributing to the coding region of a gene?
+Is this exon sequence associated with coding for a specific protein segment?
+a:
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:yes
+*
+q:
+What region does this sequence belong to?
+Which specific region can this sequence be identified with?
+In what region is this sequence located?
+To which genomic region does this sequence belong?
+Can you classify which region this sequence is part of?
+What is the location region of this sequence?
+In which part of the genome is this sequence found?
+What area of the genetic material does this sequence occupy?
+Where within the genome is this sequence situated?
+How can this sequence’s location within the genome be described?
+What is the genomic classification of the region containing this sequence?
+What type of genomic region is associated with this sequence?
+What is the positional context of this sequence in the genome?
+Where does this sequence reside within the genomic architecture?
+How is this sequence spatially organized within the genome?
+a:
+region/3utr_with_variants.csv:exons
+region/5utr_with_variants.csv:exons
+region/coding_sequences.csv:exons
+region/introns_with_variants.csv:introns
+*
+q:
+Where is this sequence relative to ORF?
+How is this sequence positioned in relation to the Open Reading Frame?
+Can you describe the location of this sequence relative to the ORF?
+What is the position of this sequence with respect to the ORF?
+Is this sequence upstream, downstream, or within the ORF?
+How close is this sequence to the Open Reading Frame?
+In relation to the ORF, where does this sequence lie?
+Can you identify the proximity of this sequence to the ORF?
+What is the spatial relation of this sequence to the ORF?
+Does this sequence fall within, before, or after the ORF?
+Whereabouts is this sequence situated regarding the Open Reading Frame?
+What is the relationship of this sequence's location to the ORF boundaries?
+Is this sequence situated downstream or upstream of the ORF?
+Does this sequence lie in the upstream or downstream region of the ORF?
+Where exactly does this sequence fall, upstream or downstream of the ORF?
+a:
+region/3utr_with_variants.csv:downstream
+region/5utr_with_variants.csv:upstream
+*
+q:
+Is there a variant in this sequence?
+Does a genetic variant exist within this sequence?
+Can you detect any variant in this sequence?
+Is a variant present in this DNA sequence?
+Does this sequence contain any genetic alterations?
+Is there evidence of a genetic variant in this sequence?
+Has a variant been identified in this sequence?
+Can a genetic variation be observed in this sequence?
+Is it possible that this sequence includes a variant?
+Are there any mutations or variants within this sequence?
+Could there be a genetic variant occurring in this sequence?
+Could this sequence harbor a genetic variant?
+Is there a mutation present in this sequence?
+Is this sequence associated with any genetic variants?
+Might this sequence include a genetic change?
+a:
+regulatory/acceptor_with_variants.csv:[variant_yes_or_no]
+regulatory/ocr_with_variants.csv:[variant_yes_or_no]
+regulatory/donor_with_variants.csv:[variant_yes_or_no]
+regulatory/promoter_with_variants.csv:[variant_yes_or_no]
+regulatory/enhancer_with_variants.csv:[variant_yes_or_no]
+region/3utr_with_variants.csv:[variant_yes_or_no]
+region/5utr_with_variants.csv:[variant_yes_or_no]
+region/introns_with_variants.csv:[variant_yes_or_no]
+*
+q:
+Is there more than one variant in this sequence?
+Does this sequence contain multiple variants?
+Are there several variants present within this sequence?
+Can multiple genetic variants be identified in this sequence?
+Is this sequence characterized by the presence of multiple genetic variations?
+Does this sequence host more than a single genetic variant?
+Can you confirm the presence of multiple variants in this sequence?
+Are multiple mutations or variants identified in this sequence?
+Are there multiple genetic variations within this sequence?
+Could this sequence include more than one genetic alteration?
+Are there multiple distinct variants in this sequence?
+Does this sequence exhibit evidence of multiple genetic differences?
+Might this sequence contain several genetic mutations or changes?
+Is there any indication of multiple variations occurring in this sequence?
+Could this sequence be associated with more than one genetic variant?
+a:
+regulatory/acceptor_with_variants.csv:[more_than_one_variant]
+regulatory/ocr_with_variants.csv:[more_than_one_variant]
+regulatory/donor_with_variants.csv:[more_than_one_variant]
+regulatory/promoter_with_variants.csv:[more_than_one_variant]
+regulatory/enhancer_with_variants.csv:[more_than_one_variant]
+region/3utr_with_variants.csv:[more_than_one_variant]
+region/5utr_with_variants.csv:[more_than_one_variant]
+region/introns_with_variants.csv:[more_than_one_variant]
+*
+q:
+How many variants are there in this sequence?
+What is the count of genetic variants present in this sequence?
+How many mutations can be identified within this sequence?
+Can you determine the number of variants in this sequence?
+What is the total number of genetic changes found in this sequence?
+How many different genetic alterations exist in this sequence?
+What number of mutations have been detected in this sequence?
+Can you specify the total variant number identified in this sequence?
+How many genetic discrepancies are observed in this sequence?
+What is the tally of variants within this DNA sequence?
+Could you provide the exact count of genetic variants in this sequence?
+What is the total quantity of mutations detected in this sequence?
+How many unique variants are observed within this sequence?
+What is the total count of observed mutations or variants in this DNA segment?
+What is the number of genetic changes in this sequence?
+a:
+regulatory/acceptor_with_variants.csv:[variant_number]
+regulatory/ocr_with_variants.csv:[variant_number]
+regulatory/donor_with_variants.csv:[variant_number]
+regulatory/promoter_with_variants.csv:[variant_number]
+regulatory/enhancer_with_variants.csv:[variant_number]
+region/3utr_with_variants.csv:[variant_number]
+region/5utr_with_variants.csv:[variant_number]
+region/introns_with_variants.csv:[variant_number]
+*
+q:
+Is there a cancer related variant in this sequence?
+Does this sequence contain any variants associated with cancer?
+Can you identify any cancer-related mutations in this sequence?
+Are there known cancer-associated variants in this sequence?
+Does this sequence include genetic variants linked to cancer?
+Is there evidence of cancer-related genetic alterations in this sequence?
+Are there mutations in this sequence that are linked to cancer?
+Does this sequence harbor variants known to be associated with cancer?
+Can variants within this sequence be implicated in cancer development?
+Could this sequence include mutations that contribute to cancer?
+Are there specific variants in this sequence tied to oncogenesis?
+Is this sequence related to cancer-driving genetic changes?
+Are any variations in this sequence linked to cancer progression or initiation?
+Could genetic changes within this sequence be relevant to cancer?
+Are there any variant in this sequence that suggest a role in cancer-related processes?
+a:
+disease/cancer_with_variants.csv:[cancer_related]
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+What's the cancer related variant in this sequence?
+Which variant in this sequence is associated with cancer?
+Can you identify the cancer-associated mutation in this sequence?
+What is the specific cancer-linked variant found in this sequence?
+What mutation in this sequence is connected to cancer development?
+Which genetic alteration in this sequence is linked to cancer?
+Can you specify the variant in this sequence that relates to cancer?
+What cancer-causing mutation is present in this sequence?
+Which variant in this sequence has been identified as cancer-related?
+What is the genetic alteration in this sequence associated with cancer?
+Which specific mutation in this sequence has been linked to cancer?
+What cancer-associated genetic change is found in this sequence?
+Could you specify the cancer-causing variant in this sequence?
+Which genetic variant in this sequence correlates with cancer?
+What particular variant in this sequence is known to drive cancer development?
+a:
+disease/cancer_with_variants.csv:[cancer_related_variant]
+*
+q:
+Is this a weak enhancer?
+Can this sequence be classified as a weak enhancer?
+Does this DNA sequence function as a weak enhancer?
+Is this sequence identified as a weak enhancer?
+Could this be considered a weak enhancer?
+Does this sequence have weak enhancer activity?
+Is this DNA fragment regarded as a weak enhancer?
+Would this be categorized as a weak enhancer?
+Can we say this sequence acts as a weak enhancer?
+Is this element functioning as a weak enhancer?
+Does this sequence exhibit characteristics of a weak enhancer?
+Could this sequence be described as having weak enhancer activity?
+Does this sequence play a role consistent with weak enhancers?
+Might this sequence exhibit features of a weak enhancer element?
+Can this sequence’s regulatory role be identified as that of a weak enhancer?
+a:
+enhancer/weak_enhancer_with_variants.csv:yes
+enhancer/strong_enhancer_with_variants.csv:no
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Is this a strong enhancer?
+Can this sequence be classified as a strong enhancer?
+Does this DNA sequence function as a strong enhancer?
+Is this sequence identified as a strong enhancer?
+Could this be considered a strong enhancer?
+Does this sequence have strong enhancer activity?
+Is this DNA fragment regarded as a strong enhancer?
+Would this be categorized as a strong enhancer?
+Can we say this sequence acts as a strong enhancer?
+Is this element functioning as a strong enhancer?
+Does this sequence exhibit characteristics of a strong enhancer?
+Could this sequence be described as having strong enhancer activity?
+Does this sequence play a role consistent with strong enhancers?
+Might this sequence exhibit features of a strong enhancer element?
+Can this sequence’s regulatory role be identified as that of a strong enhancer?
+a:
+enhancer/weak_enhancer_with_variants.csv:no
+enhancer/strong_enhancer_with_variants.csv:yes
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Whether this sequence has strong transcriptional activation ability?
+Does this sequence possess strong transcriptional activation ability?
+Can this DNA sequence activate transcription strongly?
+Is this sequence capable of strong transcriptional activation?
+Does this sequence exhibit strong transcriptional activation?
+Is this sequence associated with robust gene expression regulation?
+Does this DNA sequence strongly activate transcription?
+Is this sequence a strong activator of transcription?
+Is there strong transcriptional activation linked to this sequence?
+Does this DNA sequence show strong transcriptional activity?
+Is this sequence responsible for high transcriptional activation?
+Could this sequence be characterized by strong transcriptional activation?
+Is this DNA sequence known for its ability to enhance transcription strongly?
+Does this sequence have the potential to significantly activate transcription?
+Can this sequence drive transcription at a high level?
+a:
+enhancer/weak_enhancer_with_variants.csv:no
+enhancer/strong_enhancer_with_variants.csv:yes
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Is this a tata promoter?
+Can this sequence be classified as a TATA promoter?
+Does this DNA sequence function as a TATA promoter?
+Is this sequence identified as a TATA promoter?
+Could this be considered a TATA promoter?
+Does this sequence have TATA promoter activity?
+Is this DNA fragment regarded as a TATA promoter?
+Would this be categorized as a TATA promoter?
+Can we say this sequence acts as a TATA promoter?
+Is this element functioning as a TATA promoter?
+Does this sequence exhibit characteristics of a TATA promoter?
+Could this sequence be described as containing a TATA promoter element?
+Does this sequence align with the features of a TATA promoter?
+Might this DNA sequence function as a typical TATA box promoter?
+Is this sequence recognized for its role as a TATA promoter?
+a:
+promoter/tata_promoter_with_variants.csv:yes
+promoter/notata_promoter_with_variants.csv:no
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+Is this a no-tata promoter?
+Can this sequence be classified as a no-TATA promoter?
+Does this DNA sequence function as a no-TATA promoter?
+Is this sequence identified as a no-TATA promoter?
+Could this be considered a no-TATA promoter?
+Does this sequence have no-TATA promoter activity?
+Is this DNA fragment regarded as a no-TATA promoter?
+Would this be categorized as a no-TATA promoter?
+Can we say this sequence acts as a no-TATA promoter?
+Is this element functioning as a no-TATA promoter?
+Does this sequence exhibit characteristics of a no-TATA promoter?
+Could this sequence be described as a no-TATA box promoter?
+Does this sequence align with features of no-TATA promoters?
+Might this DNA sequence function as a promoter without a TATA box?
+Is this sequence recognized for its role as a no-TATA box promoter?
+a:
+promoter/tata_promoter_with_variants.csv:no
+promoter/notata_promoter_with_variants.csv:yes
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+*
+q:
+What kind of promoter is this DNA sequence?
+What type of promoter is this DNA sequence?
+How would you classify this promoter sequence?
+What category does this promoter belong to?
+What is the nature of this promoter in the sequence?
+How is this DNA sequence classified as a promoter?
+What specific type of promoter is represented in this sequence?
+How would this promoter be described?
+What class of promoter does this sequence fall under?
+What promoter characteristics does this DNA sequence have?
+Which promoter category does this DNA sequence fall into?
+What is the functional type of this promoter sequence?
+How is this sequence characterized as a promoter?
+Can this sequence be identified with a specific promoter class?
+To which group of promoters can this sequence be assigned?
+a:
+promoter/tata_promoter_with_variants.csv:tata promoter
+promoter/notata_promoter_with_variants.csv:notata promoter
+*
+q:
+Whether this DNA sequence is human DNA sequence?
+Is this DNA sequence from a human?
+Does this DNA sequence originate from a human?
+Can this DNA sequence be identified as human DNA?
+Is this sequence part of human genetic material?
+Is this sequence classified as human DNA?
+Does this sequence belong to the human genome?
+Can this be considered a human DNA sequence?
+Is this genetic sequence specific to humans?
+Does this DNA sequence come from a human source?
+Is this sequence derived from human DNA?
+Could this DNA sequence be attributed to the human genome?
+Might this sequence be identified as part of human DNA?
+Can this sequence be confirmed as derived from a human source?
+Could this sequence be associated with human genomic content?
+a:
+regulatory/acceptor_with_variants.csv:yes
+regulatory/ocr_with_variants.csv:yes
+regulatory/donor_with_variants.csv:yes
+regulatory/promoter_with_variants.csv:yes
+regulatory/enhancer_with_variants.csv:yes
+region/3utr_with_variants.csv:yes
+region/5utr_with_variants.csv:yes
+region/coding_sequences.csv:yes
+region/introns_with_variants.csv:yes
+species/worm_seq.csv:no
+*
+q:
+Is this a worm DNA sequence?
+Does this DNA sequence belong to a worm?
+Is this DNA sequence from a worm?
+Can this sequence be identified as worm DNA?
+Is this genetic sequence part of a worm’s genome?
+Does this sequence originate from a worm?
+Can this be considered worm DNA?
+Is this sequence related to worm genetic material?
+Is this a DNA sequence from a worm species?
+Does this DNA sequence come from a worm organism?
+Is this sequence derived from a worm genome?
+Could this DNA sequence be attributed to a worm genome?
+Might this sequence be identified as part of a worm's genetic material?
+Does this sequence appear to belong to the genome of a worm?
+Can this sequence be confirmed as derived from a worm organism?
+a:
+regulatory/acceptor_with_variants.csv:no
+regulatory/ocr_with_variants.csv:no
+regulatory/donor_with_variants.csv:no
+regulatory/promoter_with_variants.csv:no
+regulatory/enhancer_with_variants.csv:no
+region/3utr_with_variants.csv:no
+region/5utr_with_variants.csv:no
+region/coding_sequences.csv:no
+region/introns_with_variants.csv:no
+species/worm_seq.csv:yes
+*
+q:
+Is this modification from histone H2, H3 or H4?
+Does this modification occur on histone H2, H3 or H4?
+Is this a modification of H3, H2 or H4?
+Does this sequence relate to a modification on histone H3, H2 or H4?
+Is the histone being modified here H2, H3 or H4?
+Is this modification specific to histone H2, H3 or H4?
+Are we dealing with a histone H2, H3 or H4 modification in this sequence?
+Does this modification pertain to H2, H3 or H4?
+Is the histone type involved in this modification H2, H3 or H4?
+Is the modified histone in this case H2, H3 or H4?
+Which histone, H2, H3 or H4, does this modification involve?
+Could this modification be attributed to histone H2, H3, or H4?
+To which histone type-H2, H3, or H4-does this modification apply?
+Does this modification occur specifically on H2, H3, or H4 histones?
+Which histone—H2, H3, or H4—is being modified in this case?
+a:
+epigenetic_marks/human/H3K4me2.csv:H3
+epigenetic_marks/human/H3K4me3.csv:H3
+epigenetic_marks/human/H3K9ac.csv:H3
+epigenetic_marks/human/H2AFZ.csv:H2
+epigenetic_marks/human/H3K4me1.csv:H3
+epigenetic_marks/human/H3K27me3.csv:H3
+epigenetic_marks/human/H3K9me3.csv:H3
+epigenetic_marks/human/H3K27ac.csv:H3
+epigenetic_marks/human/H3K36me3.csv:H3
+epigenetic_marks/human/H4K20me1.csv:H4
+epigenetic_marks/yeast/H3.csv:H3
+epigenetic_marks/yeast/H3K4me1.csv:H3
+epigenetic_marks/yeast/H3K4me2.csv:H3
+epigenetic_marks/yeast/H3K4me3.csv:H3
+epigenetic_marks/yeast/H3K9ac.csv:H3
+epigenetic_marks/yeast/H3K14ac.csv:H3
+epigenetic_marks/yeast/H3K36me3.csv:H3
+epigenetic_marks/yeast/H3K79me3.csv:H3
+epigenetic_marks/yeast/H4.csv:H4
+epigenetic_marks/yeast/H4ac.csv:H4
+*
+q:
+What type of modification is this on histone H3?
+What is the specific type of modification on histone H3 in this sequence?
+What kind of modification does histone H3 have here?
+What modification is present on histone H3 in this DNA sequence?
+What is the nature of the modification found on H3 in this sequence?
+Can you identify the modification type on histone H3?
+What specific histone modification is found on H3 in this sequence?
+What type of chemical modification is attached to histone H3 here?
+Which modification does histone H3 have in this context?
+What is the histone H3 modification in this sequence?
+What is the particular modification on H3 in this DNA sequence?
+Which specific modification is associated with histone H3 in this context?
+Can this modification on histone H3 be identified by type?
+How is histone H3 modified in this DNA sequence?
+What is the identified histone modification present on H3 in this case?
+a:
+epigenetic_marks/human/H3K4me2.csv:H3K4me2
+epigenetic_marks/human/H3K4me3.csv:H3K4me3
+epigenetic_marks/human/H3K9ac.csv:H3K9ac
+epigenetic_marks/human/H3K4me1.csv:H3K4me1
+epigenetic_marks/human/H3K27me3.csv:H3K27me3
+epigenetic_marks/human/H3K9me3.csv:H3K9me3
+epigenetic_marks/human/H3K27ac.csv:H3K27ac
+epigenetic_marks/human/H3K36me3.csv:H3K36me3
+epigenetic_marks/yeast/H3K4me1.csv:H3K4me1
+epigenetic_marks/yeast/H3K4me2.csv:H3K4me2
+epigenetic_marks/yeast/H3K4me3.csv:H3K4me3
+epigenetic_marks/yeast/H3K9ac.csv:H3K9ac
+epigenetic_marks/yeast/H3K14ac.csv:H3K14ac
+epigenetic_marks/yeast/H3K36me3.csv:H3K36me3
+epigenetic_marks/yeast/H3K79me3.csv:H3K79me3
+*
+q:
+Does this DNA sequence come from yeast?
+Is this genetic material related to yeast?
+Could this DNA be derived from yeast?
+Is this sequence associated with yeast?
+Can we say this DNA originates from yeast?
+Does this DNA sequence belong to yeast?
+Is this DNA a part of yeast?
+Is this genetic data linked to yeast?
+Does this sequence indicate a yeast origin?
+Could this DNA sequence be attributed to yeast?
+Does this DNA pattern match yeast?
+Can we identify this sequence as yeast DNA?
+Is this sequence consistent with yeast genetic information?
+Does this sequence correspond to yeast DNA?
+Is it possible that this DNA is from yeast?
+a:
+epigenetic_marks/human/H3K4me2.csv:no
+epigenetic_marks/human/H3K4me3.csv:no
+epigenetic_marks/human/H3K9ac.csv:no
+epigenetic_marks/human/H2AFZ.csv:no
+epigenetic_marks/human/H3K4me1.csv:no
+epigenetic_marks/human/H3K27me3.csv:no
+epigenetic_marks/human/H3K9me3.csv:no
+epigenetic_marks/human/H3K27ac.csv:no
+epigenetic_marks/human/H3K36me3.csv:no
+epigenetic_marks/human/H4K20me1.csv:no
+species/worm_seq.csv:no
+species/DeePhage_temperate_coding.csv:no
+species/DeePhage_temperate_noncoding.csv:no
+species/DeePhage_virulent_coding.csv:no
+species/DeePhage_virulent_noncoding.csv:no
+species/RefSeq_chromosome_coding.csv:no
+species/RefSeq_chromosome_noncoding.csv:no
+species/RefSeq_plasmid_coding.csv:no
+species/RefSeq_plasmid_noncoding.csv:no
+epigenetic_marks/yeast/H3.csv:yes
+epigenetic_marks/yeast/H3K4me1.csv:yes
+epigenetic_marks/yeast/H3K4me2.csv:yes
+epigenetic_marks/yeast/H3K4me3.csv:yes
+epigenetic_marks/yeast/H3K9ac.csv:yes
+epigenetic_marks/yeast/H3K14ac.csv:yes
+epigenetic_marks/yeast/H3K36me3.csv:yes
+epigenetic_marks/yeast/H3K79me3.csv:yes
+epigenetic_marks/yeast/H4.csv:yes
+epigenetic_marks/yeast/H4ac.csv:yes
+*
+q:
+Does this DNA sequence come from a virus?
+Could this DNA belong to a virus?
+Is this DNA associated with a virus?
+Does this sequence originate from a virus?
+Is this genetic material indicative of a virus?
+Can this DNA be considered viral?
+Is this DNA sequence of viral origin?
+Is this genetic sequence derived from a virus?
+Does this DNA match known viral sequences?
+Is this DNA part of a viral genome?
+Could this be a virus’s genetic material?
+Does this sequence align with viral DNA?
+Is this sequence compatible with a virus?
+Can we determine that this DNA is from a virus?
+Is this sequence a fragment of a virus?
+a:
+epigenetic_marks/human/H3K4me2.csv:no
+epigenetic_marks/human/H3K4me3.csv:no
+epigenetic_marks/human/H3K9ac.csv:no
+epigenetic_marks/human/H2AFZ.csv:no
+epigenetic_marks/human/H3K4me1.csv:no
+epigenetic_marks/human/H3K27me3.csv:no
+epigenetic_marks/human/H3K9me3.csv:no
+epigenetic_marks/human/H3K27ac.csv:no
+epigenetic_marks/human/H3K36me3.csv:no
+epigenetic_marks/human/H4K20me1.csv:no
+species/worm_seq.csv:no
+species/DeePhage_temperate_coding.csv:yes
+species/DeePhage_temperate_noncoding.csv:yes
+species/DeePhage_virulent_coding.csv:yes
+species/DeePhage_virulent_noncoding.csv:yes
+species/RefSeq_chromosome_coding.csv:no
+species/RefSeq_chromosome_noncoding.csv:no
+species/RefSeq_plasmid_coding.csv:no
+species/RefSeq_plasmid_noncoding.csv:no
+epigenetic_marks/yeast/H3.csv:no
+epigenetic_marks/yeast/H3K4me1.csv:no
+epigenetic_marks/yeast/H3K4me2.csv:no
+epigenetic_marks/yeast/H3K4me3.csv:no
+epigenetic_marks/yeast/H3K9ac.csv:no
+epigenetic_marks/yeast/H3K14ac.csv:no
+epigenetic_marks/yeast/H3K36me3.csv:no
+epigenetic_marks/yeast/H3K79me3.csv:no
+epigenetic_marks/yeast/H4.csv:no
+epigenetic_marks/yeast/H4ac.csv:no
+*
+q:
+Does this DNA sequence originate from bacteria?
+Could this DNA be bacterial?
+Is this genetic material consistent with bacteria?
+Is this sequence indicative of bacterial DNA?
+Can this sequence be identified as bacterial?
+Does this DNA belong to bacteria?
+Is this DNA part of a bacterial genome?
+Could this DNA sequence be classified as bacterial?
+Is this genetic data from bacteria?
+Does this DNA correspond to bacterial material?
+Is this sequence derived from bacterial DNA?
+Is this DNA fragment characteristic of bacteria?
+Could this DNA come from bacteria?
+Is this sequence traceable to bacteria?
+Is this DNA linked to a bacterial source?
+a:
+epigenetic_marks/human/H3K4me2.csv:no
+epigenetic_marks/human/H3K4me3.csv:no
+epigenetic_marks/human/H3K9ac.csv:no
+epigenetic_marks/human/H2AFZ.csv:no
+epigenetic_marks/human/H3K4me1.csv:no
+epigenetic_marks/human/H3K27me3.csv:no
+epigenetic_marks/human/H3K9me3.csv:no
+epigenetic_marks/human/H3K27ac.csv:no
+epigenetic_marks/human/H3K36me3.csv:no
+epigenetic_marks/human/H4K20me1.csv:no
+species/worm_seq.csv:no
+species/DeePhage_temperate_coding.csv:no
+species/DeePhage_temperate_noncoding.csv:no
+species/DeePhage_virulent_coding.csv:no
+species/DeePhage_virulent_noncoding.csv:no
+species/RefSeq_chromosome_coding.csv:yes
+species/RefSeq_chromosome_noncoding.csv:yes
+species/RefSeq_plasmid_coding.csv:yes
+species/RefSeq_plasmid_noncoding.csv:yes
+epigenetic_marks/yeast/H3.csv:no
+epigenetic_marks/yeast/H3K4me1.csv:no
+epigenetic_marks/yeast/H3K4me2.csv:no
+epigenetic_marks/yeast/H3K4me3.csv:no
+epigenetic_marks/yeast/H3K9ac.csv:no
+epigenetic_marks/yeast/H3K14ac.csv:no
+epigenetic_marks/yeast/H3K36me3.csv:no
+epigenetic_marks/yeast/H3K79me3.csv:no
+epigenetic_marks/yeast/H4.csv:no
+epigenetic_marks/yeast/H4ac.csv:no
+*
+q:
+Is this genetic sequence from a virus or bacteria?
+Does this DNA come from a virus or a bacterium?
+Could this sequence be viral or bacterial?
+Is this DNA from a virus or a bacterium?
+Does this sequence represent a virus or bacteria?
+Can this DNA be classified as viral or bacterial?
+Is this genetic material linked to a virus or bacteria?
+Is this DNA viral or bacterial in nature?
+Could this sequence originate from either a virus or bacteria?
+Is this DNA associated with a virus or bacteria?
+Can we determine if this DNA is from a virus or bacteria?
+Is this sequence characteristic of a virus or bacteria?
+Could this DNA belong to a virus or a bacterium?
+Is this sequence evidence of a virus or bacteria?
+Can we tell if this DNA is viral or bacterial?
+a:
+species/DeePhage_temperate_coding.csv:virus
+species/DeePhage_temperate_noncoding.csv:virus
+species/DeePhage_virulent_coding.csv:virus
+species/DeePhage_virulent_noncoding.csv:virus
+species/RefSeq_chromosome_coding.csv:bacteria
+species/RefSeq_chromosome_noncoding.csv:bacteria
+species/RefSeq_plasmid_coding.csv:bacteria
+species/RefSeq_plasmid_noncoding.csv:bacteria
+*
+q:
+Is this a virulent phage or a temperate phage?
+Is this virus considered a virulent phage or a temperate one?
+Is this a temperate phage or a virulent one?
+Could this virus be classified as virulent or temperate?
+Can we determine whether this virus is virulent or temperate?
+Should this virus be identified as a virulent phage or a temperate phage?
+How can we categorize this virus: as virulent or temperate?
+Is this virus of the virulent type or the temperate type?
+Is this virus a temperate phage or a virulent one?
+Would this virus be described as virulent or temperate?
+Can this virus be regarded as a virulent phage or a temperate one?
+Is this virus classified as a virulent phage or a temperate phage?
+Is this virus primarily a virulent phage or a temperate phage?
+Does this virus fall under the category of virulent or temperate phages?
+Is this virus a member of virulent or temperate phages?
+a:
+species/DeePhage_temperate_coding.csv:temperate
+species/DeePhage_temperate_noncoding.csv:temperate
+species/DeePhage_virulent_coding.csv:virulent
+species/DeePhage_virulent_noncoding.csv:virulent
+*
+q:
+Is this a coding sequence from virus?
+Does this sequence represent a viral coding sequence?
+Is this nucleotide sequence a viral CDS?
+Can this sequence be identified as a viral coding region?
+Does this sequence encode a protein in a viral genome?
+Is this an open reading frame from a viral genome?
+Is this CDS part of a viral genetic structure?
+Does this sequence belong to a coding region in a virus?
+Could this be a protein-coding region from a viral genome?
+Is this genetic sequence classified as a viral coding sequence?
+Would this be recognized as a viral CDS in genomic analysis?
+Is this coding sequence found in viral genomic databases?
+Could this nucleotide sequence be a CDS originating from a virus?
+Does this sequence match known viral coding sequences?
+Is there evidence that this CDS is associated with a virus?
+a:
+species/DeePhage_temperate_coding.csv:yes
+species/DeePhage_temperate_noncoding.csv:no
+species/DeePhage_virulent_coding.csv:yes
+species/DeePhage_virulent_noncoding.csv:no
+species/RefSeq_chromosome_coding.csv:no
+species/RefSeq_chromosome_noncoding.csv:no
+species/RefSeq_plasmid_coding.csv:no
+species/RefSeq_plasmid_noncoding.csv:no
+*
+q:
+Is this a coding sequence from bacteria?
+Does this sequence represent a bacterial coding sequence?
+Is this nucleotide sequence a bacterial CDS?
+Can this sequence be identified as a bacterial coding region?
+Does this sequence encode a protein in a bacterial genome?
+Is this an open reading frame (ORF) from a bacterial genome?
+Is this CDS part of a bacterial genetic structure?
+Does this sequence belong to a coding region in bacteria?
+Could this be a protein-coding region from a bacterial genome?
+Is this genetic sequence classified as a bacterial coding sequence?
+Would this be recognized as a bacterial CDS in genomic analysis?
+Is this coding sequence found in bacterial genomic databases?
+Could this nucleotide sequence be a CDS originating from bacteria?
+Does this sequence match known bacterial coding sequences?
+Is there evidence that this CDS is associated with bacteria?
+a:
+species/DeePhage_temperate_coding.csv:no
+species/DeePhage_temperate_noncoding.csv:no
+species/DeePhage_virulent_coding.csv:no
+species/DeePhage_virulent_noncoding.csv:no
+species/RefSeq_chromosome_coding.csv:yes
+species/RefSeq_chromosome_noncoding.csv:no
+species/RefSeq_plasmid_coding.csv:yes
+species/RefSeq_plasmid_noncoding.csv:no
